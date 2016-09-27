@@ -1,6 +1,4 @@
-import javax.swing.JPanel;
 import java.awt.*;
-import java.awt.geom.*;
 
 public class Cat {
 	// drawing constants are private - noone needs to know what we're doing
